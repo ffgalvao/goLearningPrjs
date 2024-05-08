@@ -1,0 +1,11 @@
+go 1.21.5
+
+use (
+	./demoPrjs/news-demo-starter-files
+	./demoPrjs/cliApp
+	./go-course/basicfunction
+	./go-course/constants
+	./hyperskill/makingCoffee
+	./demoPrjs/gowiki
+	./hyperskill/playground
+)
